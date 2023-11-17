@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.intro {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.courses {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.course-item {
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+}
+
+/* Add or modify styles as needed */
+
+.filter {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.projects {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.project-item {
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+}
