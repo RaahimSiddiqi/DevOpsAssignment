@@ -56,3 +56,15 @@ footer {
     padding: 10px;
     background-color: #fff;
 }
+
+.certificates {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.certificate-item {
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+}
